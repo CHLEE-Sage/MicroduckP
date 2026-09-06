@@ -14,3 +14,5 @@ node "tmp\\serve-microduck.mjs"
 Then open http://127.0.0.1:8765/.
 
 Server-side code, database contents, and any external services are not included.
+
+The viewer includes a `Walk in Place` toggle. It uses a procedural walk cycle on the downloaded STL assembly; it is a visual in-place animation, not a physics simulation or a trained locomotion policy.
